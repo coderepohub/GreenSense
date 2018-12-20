@@ -8,6 +8,7 @@ This project has many sensors
 
 ## Rough Sketch Diagram 
 
+![picture alt](https://github.com/coderepohub/GreenSense/blob/master/sketch.png "Rough Sketch")
 
 
 **NOTE** : This project has the documentation (.docx) and Presentation (.ppt) which has the details and sketch as well.
